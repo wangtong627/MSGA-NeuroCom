@@ -5,6 +5,6 @@ msga_main.py is the main function and also used to load the real-world dataset .
 trainer_msga.py records the way the model trained.<br/>
 xxxx_SpectralClustering.py is the spectral method on this dataset as a comparable method, which can be ignored.<br/><br/>
 
-Since the dataset is too large, which can not be upload to github, we give the following access.
-链接：https://pan.baidu.com/s/1i_3WJaCtSYmet-prceTqFw 
+Since the dataset is too large, which can not be upload to github, we give the following access.<br/>
+链接：https://pan.baidu.com/s/1i_3WJaCtSYmet-prceTqFw <br/>
 提取码：qq6h 
