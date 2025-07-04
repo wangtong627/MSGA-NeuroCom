@@ -6,9 +6,7 @@ msga_main.py is the main function and also used to load the real-world dataset .
 trainer_msga.py records the way the model trained.<br/>
 
 ## Data
-Since the dataset is too large, we give the following access.<br/>
-链接：https://pan.baidu.com/s/1i_3WJaCtSYmet-prceTqFw <br/>
-提取码：qq6h 
+Link: https://pan.baidu.com/s/1JDBhIoLp5L6Gz4M_ycGxBg?pwd=s76q
 
 ## Citation
 Our paper is available at https://doi.org/10.1016/j.neucom.2021.06.058.   
